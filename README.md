@@ -1,4 +1,4 @@
-#MyFile
+# JUSAN CLI TASK
 
 *Alternate of Linux Terminal*
 
@@ -14,3 +14,7 @@ bc <path>               создает копию `path` в директорию
 greplong <path>         выводит самое длинное слово в файле
 help                    выводит список команд и их описание
 exit                    завершает работу программы
+
+```
+Чтобы запустить jar файл: java -jar main.jar
+``` 
