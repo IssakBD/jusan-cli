@@ -1,6 +1,7 @@
 # JUSAN CLI TASK
 
 *Alternate of Linux Terminal*
+
 ls <path>               выводит список всех файлов и директорий для `path`
 
 ls_py <path>            выводит список файлов с расширением `.py` в `path`
